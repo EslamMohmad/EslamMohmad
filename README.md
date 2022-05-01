@@ -18,8 +18,8 @@
     <h3 align="left">Connect with me:</h3>
     <p align="left">
     <a href="https://codepen.io/eslammohmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eslammohmad" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/eslam-mohmad-eisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eslam-mohmad-eisa" height="30" width="40" /></a>
-    <a href="https://fb.com/eslam mohmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eslam mohmad" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/eslam-mohmad-eisa-01b479203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eslam-mohmad-eisa" height="30" width="40" /></a>
+    <a href="https://fb.com/eslammohmad998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eslam mohmad" height="30" width="40" /></a>
     </p>
 </div>
 
